@@ -1,4 +1,4 @@
-# NWByAq03HhvfGHYb
+# Term Deposit Propensity Prediction
 Term Deposit Propensity Prediction
 
 In this project, I worked on a dataset provided from an imaginary company called ACME, which is assumed as a small startup focusing mainly on providing machine learning solutions in the European banking market.
